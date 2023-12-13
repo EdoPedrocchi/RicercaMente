@@ -2,7 +2,7 @@
 
 ## INTRODUCTION
 
-RicercaMENTE is an open source project that aims to trace the history of data science and AI through the most important scientific research published over the years.
+RicercaMENTE is an open source project that aims to trace the history of data science and AI through the most important scientific researches published over the years.
 
 For any doubts, advice or question, please contact the [founder](https://www.linkedin.com/in/pedrocchi-edoardo-129489243/)
 ## CONTRIBUTE
