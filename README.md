@@ -9,16 +9,12 @@ For any doubts, advice or question, please contact the [founder](https://www.lin
 
 ### How to contribute
 
-1. Find a research that is missing from our list, be sure of its relevance to data science and AI
+1. Find a paper that is missing from our list and be sure of its relevance to data science and AI
 2. Add your research and fill in all the fields in our table
 3. You are a contributor
 
 Attention! we are reconstructing history, so put the searches in chronological order within the table
 
-### Why should you do it?
-
-1. contributing to an open source project is an added asset to your CV, in particular you will demonstrate your knowledge and ability to interpret the scientific literature
-2. ethics, you will help those entering the world of data science and AI to retrace the history that led to the current situation, advising them on the best research to understand and comprehend
 
 ### Understand the table
 
