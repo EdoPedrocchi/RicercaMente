@@ -1,4 +1,3 @@
-
 ## THE HISTORY
 
 | Year | Name | Authors | Topic | Description | Impact | Media | Link | More | 
