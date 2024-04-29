@@ -1,5 +1,6 @@
 
 ## THE HISTORY
+
 | Year | Name | Authors | Topic | Description | Impact | Media | Link | More | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1928 | On the Theory of Games of Strategy | John von Neumann | MATH | Introduced the concept of extensive-form games and the minimax theorem, establishing foundational principles for game theory. | Pioneering work that laid the groundwork for game theory, influencing diverse fields from economics to AI decision-making algorithms. | Contributions to the Theory of Games | [Link to Paper](https://cs.uwaterloo.ca/~y328yu/classics/vonNeumann.pdf) | |
