@@ -8,5 +8,5 @@ permalink: /
 
 - [About](https://github.com/EdoPedrocchi/RicercaMente)
 - [History](History.md)
-- [Projects](projects.md)
+- [Projects](Projects/Projects.md)
 
