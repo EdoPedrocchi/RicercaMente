@@ -1,10 +1,10 @@
 # RicercaMente
 
-[View the project](https://edopedrocchi.github.io/RicercaMente/)
-
 ## INTRODUCTION
 
-RicercaMENTE is an open source project that aims to trace the history of AI through the most important scientific papers published over the years.
+RicercaMente is an open source project that aims to trace the history of AI through the most important scientific papers published over the years.
+
+Here you can see the project: [RICERCAMENTE](https://edopedrocchi.github.io/RicercaMente/)
 
 For any doubts, advice or question, please contact the [founder](https://www.linkedin.com/in/pedrocchi-edoardo-129489243/)
 ## CONTRIBUTE
