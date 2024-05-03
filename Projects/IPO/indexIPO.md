@@ -27,6 +27,8 @@ However, remember, it is in the long term that the quality of a company is truly
 
 # LITERATURE REVIEW
 
+[Write the literature review](https://github.com/EdoPedrocchi/RicercaMente)
+
 # RESEARCH METHODOLOGY
 ## Dataset
 
