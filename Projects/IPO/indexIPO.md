@@ -86,7 +86,7 @@ How do we decide whether an IPo is a success or failure in the short term?
 2. If  **Target stock price after completion USD** >  **Target stock price 1 week after completion USD** > **Target stock price 1 month after completion USD** , The IPO is a failure (0)
 3. Else, null value
 
-why this decision?
+Why this decision?
 Markets are variable, so we need a trend (we use 2 variables to figure out if the price is going up or down).
 
 Taking the photo at one time, say only a month later, without an intermediate date is certainly less accurate, although this interpretation is not perfect
