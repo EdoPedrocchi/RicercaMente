@@ -80,6 +80,19 @@ For each company, we know these variables:
 
 ## Research objective
 
+How do we decide whether an IPo is a success or failure in the short term?
+
+1. If  **Target stock price after completion USD** <  **Target stock price 1 week after completion USD** < **Target stock price 1 month after completion USD** , The IPO is a success (1)
+2. If  **Target stock price after completion USD** >  **Target stock price 1 week after completion USD** > **Target stock price 1 month after completion USD** , The IPO is a failure (0)
+3. Else, null value
+
+why this decision?
+Markets are variable, so we need a trend (we use 2 variables to figure out if the price is going up or down).
+
+Taking the photo at one time, say only a month later, without an intermediate date is certainly less accurate, although this interpretation is not perfect
+
+
+The goal will then be to create models that use all other variables to predict the success (1) or failure (0) of the IPO
 # RESULTS
 
 # CONCLUSION
