@@ -2,9 +2,9 @@
 1. [Introduction](#introduction)
 2. [Literature Review](#literature-review)
 3. [Research Methodology](#research-methodology)
-4. [Results](#results)
-5. [Conclusion](#conclusion)
-6. [References](#references)
+5. [Results](#results)
+6. [Conclusion](#conclusion)
+7. [References](#references)
 
 
 # INTRODUCTION
@@ -28,6 +28,55 @@ However, remember, it is in the long term that the quality of a company is truly
 # LITERATURE REVIEW
 
 # RESEARCH METHODOLOGY
+## Dataset
+
+The dataset used come from the platfotm ["Orbis M&A"](https://orbismanda.bvdinfo.com/) and contains over 20k companies that have made an IPO.
+
+For each company, we know these variables:
+
+1. **Target country code**: The code of the target country where the target company is located or primarily associated with.
+
+2. **Deal value th USD**: The value of the deal expressed in thousands of US dollars.
+
+3. **Target business description(s)**: Description or descriptions of the sector or activities of the target company subject to the deal.
+
+4. **Completed date**: Date when the deal was completed or finalized.
+
+5. **Deal equity value th USD**: The equity value of the deal expressed in thousands of US dollars.
+
+6. **Pre-deal target operating revenue/turnover th USD Last avail. yr**: The operating revenue or turnover of the target company before the deal, expressed in thousands of US dollars, for the last available year.
+
+7. **Pre-deal target EBITDA th USD Last avail. yr**: The earnings before interest, taxes, depreciation, and amortization (EBITDA) of the target company before the deal, expressed in thousands of US dollars, for the last available year.
+
+8. **Pre-deal target EBIT th USD Last avail. yr**: The earnings before interest and taxes (EBIT) of the target company before the deal, expressed in thousands of US dollars, for the last available year.
+
+9. **Pre-deal target profit before tax th USD Last avail. yr**: The profit before tax of the target company before the deal, expressed in thousands of US dollars, for the last available year.
+
+10. **Pre-deal target profit after tax th USD Last avail. yr**: The profit after tax of the target company before the deal, expressed in thousands of US dollars, for the last available year.
+
+11. **Pre-deal target net profit th USD Last avail. yr**: The net profit of the target company before the deal, expressed in thousands of US dollars, for the last available year.
+
+12. **Pre-deal target total assets th USD Last avail. yr**: The total assets of the target company before the deal, expressed in thousands of US dollars, for the last available year.
+
+13. **Pre-deal target net assets th USD Last avail. yr**: The net assets of the target company before the deal, expressed in thousands of US dollars, for the last available year.
+
+14. **Pre-deal target current liabilities th USD Last avail. yr**: The current liabilities of the target company before the deal, expressed in thousands of US dollars, for the last available year.
+
+15. **Pre-deal target shareholders funds th USD Last avail. yr**: The shareholders' funds of the target company before the deal, expressed in thousands of US dollars, for the last available year.
+
+16. **Pre-deal target market capitalisation (Last available year) th USD**: The market capitalization of the target company before the deal, expressed in thousands of US dollars, for the last available year.
+
+17. **Pre-deal target number of months Last avail. yr**: The number of months for which pre-deal financial data of the target company are available, for the last available year.
+
+18. **Target stock price 1 month after completion USD**: The stock price of the target company one month after the completion of the deal, expressed in US dollars.
+
+19. **Target major sector**: The major sector in which the target company operates.
+
+20. **Target stock price after completion USD**: The stock price of the target company after the completion of the deal, expressed in US dollars.
+
+21. **Target stock price 1 week after completion USD**: The stock price of the target company one week after the completion of the deal, expressed in US dollars.
+
+## Research objective
 
 # RESULTS
 
