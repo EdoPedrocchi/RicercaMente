@@ -97,6 +97,11 @@ Taking the photo at one time, say only a month later, without an intermediate da
 
 
 The goal will then be to create models that use all other variables to predict the success or failure of the IPO
+
+## Exploratory data analysis
+
+[Contribute and do it!](https://github.com/EdoPedrocchi/RicercaMente)
+
 # RESULTS
 
 # CONCLUSION
