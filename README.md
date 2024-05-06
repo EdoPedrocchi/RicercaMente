@@ -7,25 +7,22 @@ RicercaMente is an open source project that aims to trace the history of AI thro
 Here you can see the project: [RICERCAMENTE](https://edopedrocchi.github.io/RicercaMente/)
 
 For any doubts, advice or question, please contact the [founder](https://www.linkedin.com/in/pedrocchi-edoardo-129489243/)
-## CONTRIBUTE
 
-### How to contribute
+## CONTRIBUTE 
 
-1. Find a paper that is missing from our list and be sure of its relevance to data science and AI
-2. Add your research and fill in all the fields in our table
+### How to contribute for the History section
+
+1. Find a paper that is missing from our list and be sure of its relevance to data science and AI, or choose one present in the issues
+2. Add your paper and fill in all the fields in our table
 3. You are a contributor
 
 Attention! we are reconstructing history, so put the searches in chronological order within the table
 
+###  How to contribute for our open source papers
 
-### Understand the table
+1. Check the issues or open one
+2. You don't need to be an expert phd, anyone can contribute. Choose a task that fits your skills
+3. You don't have to be a data scientist, you can also write the introduction, abstract, references, etc.
 
-- Name = the name of the research
-- Author =  the authors of the research
-- Year = year of publication
-- topic = the topic of the research (insert : AI, MATH, DATA)
-- description = A brief description of the research, what is it about?
-- Impact = why is it so important?
-- Media = where was it published?
-- Link = link to read the research
-- More = add whatever you want! this is the only non-compulsory data
+
+
