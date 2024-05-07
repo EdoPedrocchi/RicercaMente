@@ -1,3 +1,5 @@
+# PREDICT IPO USING MACHINE LEARNING
+
 # TABLE OF CONTENT
 1. [Introduction](#introduction)
 2. [Literature Review](#literature-review)
@@ -10,7 +12,7 @@
 # INTRODUCTION
 What's that?
 
-We've created an open source paper where anyone, including you, can contribute. 
+We've created an **open source paper** where anyone, including you, can contribute. 
 
 Predicting the success or failure of an IPO using machine learning, is it possible?
 We will start by analyzing the most important papers in the field, doing a literature review. 
