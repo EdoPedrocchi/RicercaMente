@@ -32,7 +32,7 @@ However, remember, it is in the long term that the quality of a company is truly
 
 # LITERATURE REVIEW
 
-[Write the literature review](https://github.com/EdoPedrocchi/RicercaMente)
+[Contribute and write it!](https://github.com/EdoPedrocchi/RicercaMente/issues/25)
 
 # RESEARCH METHODOLOGY
 ## Dataset
@@ -85,7 +85,7 @@ For each company, we know these variables:
 
 ## Research objective
 
-How do we decide whether an IPP is a success or failure in the short term?
+How do we decide whether an IPO is a success or failure in the short term?
 
 1. If  "**Target stock price after completion USD**" <  "**Target stock price 1 week after completion USD**" < "**Target stock price 1 month after completion USD**" , The IPO is a "succes"
 2. If  "**Target stock price after completion USD**" >  "**Target stock price 1 week after completion USD**" > "**Target stock price 1 month after completion USD**" , The IPO is a "failure"
