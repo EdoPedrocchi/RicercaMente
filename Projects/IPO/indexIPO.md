@@ -102,7 +102,8 @@ The goal will then be to create models that use all other variables to predict t
 
 ## Exploratory data analysis
 
-[Contribute and do it!](https://github.com/EdoPedrocchi/RicercaMente)
+<iframe src="https://EdoPedrocchi.github.io/RicercaMente/Projects/IPO/Code/IPO%20project%20-%20EDA.html" width="100%" height="600px"></iframe>
+
 
 # RESULTS
 
