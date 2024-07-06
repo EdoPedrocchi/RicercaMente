@@ -2,7 +2,7 @@
 permalink: /
 ---
 # **RICERCAMENTE**
-> Discover the history of AI
+> Discover the history of AI & create ML papers 
 
 ## What we do
 
@@ -17,5 +17,5 @@ Ricercamente do 3 things:
 
 - [About](https://github.com/EdoPedrocchi/RicercaMente)
 - [History](History.md)
-- [Projects](Projects/Projects.md)
+- [Papers](Projects/Projects.md)
 
