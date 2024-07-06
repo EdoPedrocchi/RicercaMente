@@ -32,7 +32,15 @@ However, remember, it is in the long term that the quality of a company is truly
 
 # LITERATURE REVIEW
 
-[Contribute and write it!](https://github.com/EdoPedrocchi/RicercaMente/issues/25)
+Recent studies have explored the potential of machine learning algorithms to predict IPO performance and pricing. 
+
+- Research has shown that artificial neural networks can achieve up to 68.11% accuracy in predicting IPO underperformance (Sonsare et al., 2023). Combining textual information from S-1 filings with financial variables can improve prediction accuracy by 6.1% compared to using financial data alone (Katsafados et al., 2020).
+
+- Random forests have been found to outperform other machine learning algorithms in predicting IPO underpricing, demonstrating potential for practical applications in IPO pricing and trading (Quintana et al., 2017).
+
+- Key factors influencing IPO pricing include general subscription competition rate, public offering price, capital stock, net income, and largest shareholder's equity ratio (Kim, 2023).
+
+These studies suggest that machine learning techniques can effectively predict various aspects of IPO performance, offering valuable insights for investors and financial analysts in mitigating risks associated with IPO investments.
 
 # RESEARCH METHODOLOGY
 ## Dataset
