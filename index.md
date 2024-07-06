@@ -17,5 +17,5 @@ Ricercamente do 3 things:
 
 - [About](https://github.com/EdoPedrocchi/RicercaMente)
 - [History](History.md)
-- [Papers](Projects/Projects.md)
+- [Papers](Projects/Papers.md)
 
